@@ -1,0 +1,11 @@
+package _1_week1IntroductionToJava;
+
+public class _1_HelloWorld {
+	public static void main(String...args) {
+		System.out.println("Hello World!");
+		System.out.println("Rhem Giou Salvador");
+		System.out.println("BSCS");
+		System.out.println("IT12S6");
+	}
+}
+
